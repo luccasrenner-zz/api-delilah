@@ -8,8 +8,8 @@
 <p>Agregar usuario</p>
 <p>// El role del user puede ser ADMIN | USER </p>
 [POST] /user/add
-```
-{
+
+```{
         "USER_NAME": "",
         "FULL_NAME": "",
         "EMAIL": "",
@@ -20,7 +20,7 @@
         "ROLE": "" 
 }```
 
-    [RESPUESTA]
+[RESPUESTA]
 ```{
         "fieldCount": 0,
         "affectedRows": 1,
