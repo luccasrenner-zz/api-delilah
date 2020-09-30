@@ -1,7 +1,24 @@
 #Delilah Resto
+<p>
+    lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum 
+</p>
 
-<h1>dsdsa</h1>
-<p>Hola mundo </p>
+<h2>
+    Instruccion de instalacion
+</h2>
+
+<ul>
+    <ol>
+        -> npm run install
+    </ol>
+    <ol>
+        -> npm run migrations
+    </ol>
+    <ol>
+        -> npm run start
+    </ol>
+</ul>
+
 
 
 #EndPoints
