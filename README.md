@@ -7,9 +7,9 @@
 #EndPoints
 <p>Agregar usuario</p>
 <p>// El role del user puede ser ADMIN | USER </p>
+[POST] /user/add
 ```
-    [POST] /user/add
-    {
+{
         "USER_NAME": "",
         "FULL_NAME": "",
         "EMAIL": "",
@@ -18,17 +18,14 @@
         "ADDRESS": "",
         "PASSWORD": "",
         "ROLE": "" 
-    }
-```
+}```
 
-```
-    [RESPUESTA] 
-    {
+    [RESPUESTA]
+```{
         "fieldCount": 0,
         "affectedRows": 1,
         "insertId": 15,
         "info": "",
         "serverStatus": 2,
         "warningStatus": 0
-    }
-```
+}```
